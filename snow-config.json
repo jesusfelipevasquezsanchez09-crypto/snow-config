@@ -1,7 +1,7 @@
 {
  "vars": {},
  "texts": {},
- "rev": 1793511938959,
+ "rev": 1793512236956,
  "banner": {
   "text": "hades",
   "level": "warn",
@@ -23,5 +23,22 @@
   "media": [],
   "snowplus": [],
   "comprador": []
+ },
+ "shop": {
+  "prices": {},
+  "codes": [
+   {
+    "code": "",
+    "coins": 100
+   }
+  ],
+  "payments": [],
+  "grants": [
+   {
+    "id": "mvxevao9625k",
+    "name": "Hadecitoo",
+    "coins": 100
+   }
+  ]
  }
 }
