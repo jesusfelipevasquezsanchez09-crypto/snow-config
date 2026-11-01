@@ -1,7 +1,7 @@
 {
  "vars": {},
  "texts": {},
- "rev": 1793512236956,
+ "rev": 1793512252960,
  "banner": {
   "text": "hades",
   "level": "warn",
@@ -37,7 +37,7 @@
    {
     "id": "mvxevao9625k",
     "name": "Hadecitoo",
-    "coins": 100
+    "coins": 1900
    }
   ]
  }
