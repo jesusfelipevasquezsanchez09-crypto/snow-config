@@ -1,10 +1,27 @@
 {
  "vars": {},
  "texts": {},
- "rev": 1793511466194,
+ "rev": 1793511768129,
  "banner": {
   "text": "hades",
   "level": "warn",
   "id": 1793511451035
+ },
+ "ranks": {
+  "owner": [
+   "Tencito"
+  ],
+  "manager": [],
+  "admin": [],
+  "srmod": [],
+  "mod": [],
+  "srstaff": [],
+  "staff": [],
+  "partner": [],
+  "famoso": [],
+  "mediaplus": [],
+  "media": [],
+  "snowplus": [],
+  "comprador": []
  }
 }
